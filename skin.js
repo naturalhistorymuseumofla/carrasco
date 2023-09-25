@@ -3869,7 +3869,7 @@ function pano2vrSkin(player,base) {
 		el=me.__57=document.createElement('div');
 		els=me.__57__img=document.createElement('img');
 		els.className='ggskin ggskin__57';
-		hs=basePath + 'images/_57.png';
+		hs=basePath + 'images/i_57.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -4133,7 +4133,7 @@ function pano2vrSkin(player,base) {
 		el=me.__56=document.createElement('div');
 		els=me.__56__img=document.createElement('img');
 		els.className='ggskin ggskin__56';
-		hs=basePath + 'images/_56.png';
+		hs=basePath + 'images/i_56.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -4464,7 +4464,7 @@ function pano2vrSkin(player,base) {
 		el=me.__55=document.createElement('div');
 		els=me.__55__img=document.createElement('img');
 		els.className='ggskin ggskin__55';
-		hs=basePath + 'images/_55.png';
+		hs=basePath + 'images/i_55.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -4795,7 +4795,7 @@ function pano2vrSkin(player,base) {
 		el=me.__54=document.createElement('div');
 		els=me.__54__img=document.createElement('img');
 		els.className='ggskin ggskin__54';
-		hs=basePath + 'images/_54.png';
+		hs=basePath + 'images/i_54.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -5126,7 +5126,7 @@ function pano2vrSkin(player,base) {
 		el=me.__53=document.createElement('div');
 		els=me.__53__img=document.createElement('img');
 		els.className='ggskin ggskin__53';
-		hs=basePath + 'images/_53.png';
+		hs=basePath + 'images/i_53.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -5457,7 +5457,7 @@ function pano2vrSkin(player,base) {
 		el=me.__52=document.createElement('div');
 		els=me.__52__img=document.createElement('img');
 		els.className='ggskin ggskin__52';
-		hs=basePath + 'images/_52.png';
+		hs=basePath + 'images/i_52.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -5788,7 +5788,7 @@ function pano2vrSkin(player,base) {
 		el=me.__51=document.createElement('div');
 		els=me.__51__img=document.createElement('img');
 		els.className='ggskin ggskin__51';
-		hs=basePath + 'images/_51.png';
+		hs=basePath + 'images/i_51.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -6119,7 +6119,7 @@ function pano2vrSkin(player,base) {
 		el=me.__50=document.createElement('div');
 		els=me.__50__img=document.createElement('img');
 		els.className='ggskin ggskin__50';
-		hs=basePath + 'images/_50.png';
+		hs=basePath + 'images/i_50.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -6450,7 +6450,7 @@ function pano2vrSkin(player,base) {
 		el=me.__49=document.createElement('div');
 		els=me.__49__img=document.createElement('img');
 		els.className='ggskin ggskin__49';
-		hs=basePath + 'images/_49.png';
+		hs=basePath + 'images/i_49.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -6781,7 +6781,7 @@ function pano2vrSkin(player,base) {
 		el=me.__48=document.createElement('div');
 		els=me.__48__img=document.createElement('img');
 		els.className='ggskin ggskin__48';
-		hs=basePath + 'images/_48.png';
+		hs=basePath + 'images/i_48.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -7112,7 +7112,7 @@ function pano2vrSkin(player,base) {
 		el=me.__47=document.createElement('div');
 		els=me.__47__img=document.createElement('img');
 		els.className='ggskin ggskin__47';
-		hs=basePath + 'images/_47.png';
+		hs=basePath + 'images/i_47.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -7443,7 +7443,7 @@ function pano2vrSkin(player,base) {
 		el=me.__46=document.createElement('div');
 		els=me.__46__img=document.createElement('img');
 		els.className='ggskin ggskin__46';
-		hs=basePath + 'images/_46.png';
+		hs=basePath + 'images/i_46.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -7774,7 +7774,7 @@ function pano2vrSkin(player,base) {
 		el=me.__45=document.createElement('div');
 		els=me.__45__img=document.createElement('img');
 		els.className='ggskin ggskin__45';
-		hs=basePath + 'images/_45.png';
+		hs=basePath + 'images/i_45.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -8105,7 +8105,7 @@ function pano2vrSkin(player,base) {
 		el=me.__44=document.createElement('div');
 		els=me.__44__img=document.createElement('img');
 		els.className='ggskin ggskin__44';
-		hs=basePath + 'images/_44.png';
+		hs=basePath + 'images/i_44.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -8436,7 +8436,7 @@ function pano2vrSkin(player,base) {
 		el=me.__43=document.createElement('div');
 		els=me.__43__img=document.createElement('img');
 		els.className='ggskin ggskin__43';
-		hs=basePath + 'images/_43.png';
+		hs=basePath + 'images/i_43.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -8767,7 +8767,7 @@ function pano2vrSkin(player,base) {
 		el=me.__42=document.createElement('div');
 		els=me.__42__img=document.createElement('img');
 		els.className='ggskin ggskin__42';
-		hs=basePath + 'images/_42.png';
+		hs=basePath + 'images/i_42.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -9098,7 +9098,7 @@ function pano2vrSkin(player,base) {
 		el=me.__41=document.createElement('div');
 		els=me.__41__img=document.createElement('img');
 		els.className='ggskin ggskin__41';
-		hs=basePath + 'images/_41.png';
+		hs=basePath + 'images/i_41.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -9429,7 +9429,7 @@ function pano2vrSkin(player,base) {
 		el=me.__40=document.createElement('div');
 		els=me.__40__img=document.createElement('img');
 		els.className='ggskin ggskin__40';
-		hs=basePath + 'images/_40.png';
+		hs=basePath + 'images/i_40.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -9760,7 +9760,7 @@ function pano2vrSkin(player,base) {
 		el=me.__39=document.createElement('div');
 		els=me.__39__img=document.createElement('img');
 		els.className='ggskin ggskin__39';
-		hs=basePath + 'images/_39.png';
+		hs=basePath + 'images/i_39.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -10091,7 +10091,7 @@ function pano2vrSkin(player,base) {
 		el=me.__38=document.createElement('div');
 		els=me.__38__img=document.createElement('img');
 		els.className='ggskin ggskin__38';
-		hs=basePath + 'images/_38.png';
+		hs=basePath + 'images/i_38.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -10422,7 +10422,7 @@ function pano2vrSkin(player,base) {
 		el=me.__37=document.createElement('div');
 		els=me.__37__img=document.createElement('img');
 		els.className='ggskin ggskin__37';
-		hs=basePath + 'images/_37.png';
+		hs=basePath + 'images/i_37.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -10753,7 +10753,7 @@ function pano2vrSkin(player,base) {
 		el=me.__36=document.createElement('div');
 		els=me.__36__img=document.createElement('img');
 		els.className='ggskin ggskin__36';
-		hs=basePath + 'images/_36.png';
+		hs=basePath + 'images/i_36.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -11084,7 +11084,7 @@ function pano2vrSkin(player,base) {
 		el=me.__35=document.createElement('div');
 		els=me.__35__img=document.createElement('img');
 		els.className='ggskin ggskin__35';
-		hs=basePath + 'images/_35.png';
+		hs=basePath + 'images/i_35.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -11415,7 +11415,7 @@ function pano2vrSkin(player,base) {
 		el=me.__34=document.createElement('div');
 		els=me.__34__img=document.createElement('img');
 		els.className='ggskin ggskin__34';
-		hs=basePath + 'images/_34.png';
+		hs=basePath + 'images/i_34.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -11746,7 +11746,7 @@ function pano2vrSkin(player,base) {
 		el=me.__33=document.createElement('div');
 		els=me.__33__img=document.createElement('img');
 		els.className='ggskin ggskin__33';
-		hs=basePath + 'images/_33.png';
+		hs=basePath + 'images/i_33.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -12408,7 +12408,7 @@ function pano2vrSkin(player,base) {
 		el=me.__31=document.createElement('div');
 		els=me.__31__img=document.createElement('img');
 		els.className='ggskin ggskin__31';
-		hs=basePath + 'images/_31.png';
+		hs=basePath + 'images/i_31.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -12739,7 +12739,7 @@ function pano2vrSkin(player,base) {
 		el=me.__30=document.createElement('div');
 		els=me.__30__img=document.createElement('img');
 		els.className='ggskin ggskin__30';
-		hs=basePath + 'images/_30.png';
+		hs=basePath + 'images/i_30.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -13070,7 +13070,7 @@ function pano2vrSkin(player,base) {
 		el=me.__29=document.createElement('div');
 		els=me.__29__img=document.createElement('img');
 		els.className='ggskin ggskin__29';
-		hs=basePath + 'images/_29.png';
+		hs=basePath + 'images/i_29.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -13401,7 +13401,7 @@ function pano2vrSkin(player,base) {
 		el=me.__28=document.createElement('div');
 		els=me.__28__img=document.createElement('img');
 		els.className='ggskin ggskin__28';
-		hs=basePath + 'images/_28.png';
+		hs=basePath + 'images/i_28.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -13732,7 +13732,7 @@ function pano2vrSkin(player,base) {
 		el=me.__27=document.createElement('div');
 		els=me.__27__img=document.createElement('img');
 		els.className='ggskin ggskin__27';
-		hs=basePath + 'images/_27.png';
+		hs=basePath + 'images/i_27.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -14063,7 +14063,7 @@ function pano2vrSkin(player,base) {
 		el=me.__26=document.createElement('div');
 		els=me.__26__img=document.createElement('img');
 		els.className='ggskin ggskin__26';
-		hs=basePath + 'images/_26.png';
+		hs=basePath + 'images/i_26.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -14394,7 +14394,7 @@ function pano2vrSkin(player,base) {
 		el=me.__25=document.createElement('div');
 		els=me.__25__img=document.createElement('img');
 		els.className='ggskin ggskin__25';
-		hs=basePath + 'images/_25.png';
+		hs=basePath + 'images/i_25.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -14725,7 +14725,7 @@ function pano2vrSkin(player,base) {
 		el=me.__24=document.createElement('div');
 		els=me.__24__img=document.createElement('img');
 		els.className='ggskin ggskin__24';
-		hs=basePath + 'images/_24.png';
+		hs=basePath + 'images/i_24.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -15056,7 +15056,7 @@ function pano2vrSkin(player,base) {
 		el=me.__23=document.createElement('div');
 		els=me.__23__img=document.createElement('img');
 		els.className='ggskin ggskin__23';
-		hs=basePath + 'images/_23.png';
+		hs=basePath + 'images/i_23.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -15387,7 +15387,7 @@ function pano2vrSkin(player,base) {
 		el=me.__22=document.createElement('div');
 		els=me.__22__img=document.createElement('img');
 		els.className='ggskin ggskin__22';
-		hs=basePath + 'images/_22.png';
+		hs=basePath + 'images/i_22.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -15718,7 +15718,7 @@ function pano2vrSkin(player,base) {
 		el=me.__21=document.createElement('div');
 		els=me.__21__img=document.createElement('img');
 		els.className='ggskin ggskin__21';
-		hs=basePath + 'images/_21.png';
+		hs=basePath + 'images/i_21.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -16049,7 +16049,7 @@ function pano2vrSkin(player,base) {
 		el=me.__20=document.createElement('div');
 		els=me.__20__img=document.createElement('img');
 		els.className='ggskin ggskin__20';
-		hs=basePath + 'images/_20.png';
+		hs=basePath + 'images/i_20.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -16380,7 +16380,7 @@ function pano2vrSkin(player,base) {
 		el=me.__19=document.createElement('div');
 		els=me.__19__img=document.createElement('img');
 		els.className='ggskin ggskin__19';
-		hs=basePath + 'images/_19.png';
+		hs=basePath + 'images/i_19.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -16711,7 +16711,7 @@ function pano2vrSkin(player,base) {
 		el=me.__18=document.createElement('div');
 		els=me.__18__img=document.createElement('img');
 		els.className='ggskin ggskin__18';
-		hs=basePath + 'images/_18.png';
+		hs=basePath + 'images/i_18.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -17042,7 +17042,7 @@ function pano2vrSkin(player,base) {
 		el=me.__17=document.createElement('div');
 		els=me.__17__img=document.createElement('img');
 		els.className='ggskin ggskin__17';
-		hs=basePath + 'images/_17.png';
+		hs=basePath + 'images/i_17.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -17373,7 +17373,7 @@ function pano2vrSkin(player,base) {
 		el=me.__16=document.createElement('div');
 		els=me.__16__img=document.createElement('img');
 		els.className='ggskin ggskin__16';
-		hs=basePath + 'images/_16.png';
+		hs=basePath + 'images/i_16.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -17704,7 +17704,7 @@ function pano2vrSkin(player,base) {
 		el=me.__15=document.createElement('div');
 		els=me.__15__img=document.createElement('img');
 		els.className='ggskin ggskin__15';
-		hs=basePath + 'images/_15.png';
+		hs=basePath + 'images/i_15.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -18035,7 +18035,7 @@ function pano2vrSkin(player,base) {
 		el=me.__14=document.createElement('div');
 		els=me.__14__img=document.createElement('img');
 		els.className='ggskin ggskin__14';
-		hs=basePath + 'images/_14.png';
+		hs=basePath + 'images/i_14.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -18366,7 +18366,7 @@ function pano2vrSkin(player,base) {
 		el=me.__13=document.createElement('div');
 		els=me.__13__img=document.createElement('img');
 		els.className='ggskin ggskin__13';
-		hs=basePath + 'images/_13.png';
+		hs=basePath + 'images/i_13.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -18697,7 +18697,7 @@ function pano2vrSkin(player,base) {
 		el=me.__12=document.createElement('div');
 		els=me.__12__img=document.createElement('img');
 		els.className='ggskin ggskin__12';
-		hs=basePath + 'images/_12.png';
+		hs=basePath + 'images/i_12.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -19028,7 +19028,7 @@ function pano2vrSkin(player,base) {
 		el=me.__11=document.createElement('div');
 		els=me.__11__img=document.createElement('img');
 		els.className='ggskin ggskin__11';
-		hs=basePath + 'images/_11.png';
+		hs=basePath + 'images/i_11.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -19359,7 +19359,7 @@ function pano2vrSkin(player,base) {
 		el=me.__10=document.createElement('div');
 		els=me.__10__img=document.createElement('img');
 		els.className='ggskin ggskin__10';
-		hs=basePath + 'images/_10.png';
+		hs=basePath + 'images/i_10.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -19690,7 +19690,7 @@ function pano2vrSkin(player,base) {
 		el=me.__09=document.createElement('div');
 		els=me.__09__img=document.createElement('img');
 		els.className='ggskin ggskin__09';
-		hs=basePath + 'images/_09.png';
+		hs=basePath + 'images/i_09.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -20021,7 +20021,7 @@ function pano2vrSkin(player,base) {
 		el=me.__08=document.createElement('div');
 		els=me.__08__img=document.createElement('img');
 		els.className='ggskin ggskin__08';
-		hs=basePath + 'images/_08.png';
+		hs=basePath + 'images/i_08.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -20352,7 +20352,7 @@ function pano2vrSkin(player,base) {
 		el=me.__07=document.createElement('div');
 		els=me.__07__img=document.createElement('img');
 		els.className='ggskin ggskin__07';
-		hs=basePath + 'images/_07.png';
+		hs=basePath + 'images/i_07.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -20683,7 +20683,7 @@ function pano2vrSkin(player,base) {
 		el=me.__06=document.createElement('div');
 		els=me.__06__img=document.createElement('img');
 		els.className='ggskin ggskin__06';
-		hs=basePath + 'images/_06.png';
+		hs=basePath + 'images/i_06.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -21014,7 +21014,7 @@ function pano2vrSkin(player,base) {
 		el=me.__05=document.createElement('div');
 		els=me.__05__img=document.createElement('img');
 		els.className='ggskin ggskin__05';
-		hs=basePath + 'images/_05.png';
+		hs=basePath + 'images/i_05.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -21345,7 +21345,7 @@ function pano2vrSkin(player,base) {
 		el=me.__04=document.createElement('div');
 		els=me.__04__img=document.createElement('img');
 		els.className='ggskin ggskin__04';
-		hs=basePath + 'images/_04.png';
+		hs=basePath + 'images/i_04.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -21676,7 +21676,7 @@ function pano2vrSkin(player,base) {
 		el=me.__03=document.createElement('div');
 		els=me.__03__img=document.createElement('img');
 		els.className='ggskin ggskin__03';
-		hs=basePath + 'images/_03.png';
+		hs=basePath + 'images/i_03.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -22007,7 +22007,7 @@ function pano2vrSkin(player,base) {
 		el=me.__02=document.createElement('div');
 		els=me.__02__img=document.createElement('img');
 		els.className='ggskin ggskin__02';
-		hs=basePath + 'images/_02.png';
+		hs=basePath + 'images/i_02.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
@@ -22338,7 +22338,7 @@ function pano2vrSkin(player,base) {
 		el=me.__01=document.createElement('div');
 		els=me.__01__img=document.createElement('img');
 		els.className='ggskin ggskin__01';
-		hs=basePath + 'images/_01.png';
+		hs=basePath + 'images/i_01.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
