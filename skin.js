@@ -12077,7 +12077,7 @@ function pano2vrSkin(player,base) {
 		el=me.__32=document.createElement('div');
 		els=me.__32__img=document.createElement('img');
 		els.className='ggskin ggskin__32';
-		hs=basePath + 'images/_32.png';
+		hs=basePath + 'images/i_32.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		els.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;');
